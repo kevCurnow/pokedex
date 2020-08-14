@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Pocket Monk';
+    src: url('PocketMonk-15ze.ttf')
+}
+.pokedex{
+    font-family: 'Pocket Monk';
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: red;
+    font-family: "Pocket Monk";
+    border-color: red;
+}
+
+.btn-primary:hover {
+    background-color: red;
+    border-color: red;
+}
+.btn-primary:focus {
+    background-color: red;
+    border-color: red;
+}
+#button-addon2 {
+    color: #3d7dca;
+    font-family: 'Pocket Monk';
+    border-color: #3d7dca;
+}
+
+#button-addon2:hover {
+    color: #3d7dca;
+    font-family: 'Pocket Monk';
+    border-color: #3d7dca;
+    background-color: white;
+}
+#button-addon2:focus {
+    color: #3d7dca;
+    font-family: 'Pocket Monk';
+    border-color: #3d7dca;
+    background-color: white;
+}
+.form-control {
+    background-color: #ffcb05;
+    color: #3d7dca;
+}
+.form-control:focus {
+    background-color: #ffcb05;
+    color: #3d7dca;
+}
+.list-group {
+    list-style-type: none;
+    display: none;
+    text-align: center;
+    /* background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4c/Pokeball.png");
+    background-size: cover;
+    background-repeat: no-repeat; */
+    border-style: none;
+}
+
+
+.red {
+    background-color: red;
+}
+
+
+#middleLine {
+    background-color: black;
+    height: 50%;
+}
+
+
+
+#input-error {
+    display: none;
+    text-align: center;
+}
